@@ -1,7 +1,8 @@
-vmess://YXV0bzoxY2MwMWE1Ny02OGE3LTQ0NWItOWMyZi1lNDllMDZlNGU2OGFAbXJraW5wYS5tbDo0NDM?remarks=mrkinpa.ml%EF%BC%8835.221.169.149%EF%BC%89&obfsParam=mrkinpa.ml&path=/&obfs=websocket&tls=1&peer=&cert=
+#hongkong
+vmess://YXV0bzo3ZmJhNjc0Mi0yMmQ1LTQyZGYtOGU0Ny1lZmI0YTYwMTU5MjRAbXJraW5wYWhrLm1sOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF&obfsParam=mrkinpahk.ml&path=/&obfs=websocket&tls=1&peer=&cert=
 
-vmess://YXV0bzo3ZmJhNjc0Mi0yMmQ1LTQyZGYtOGU0Ny1lZmI0YTYwMTU5MjRAbXJraW5wYWhrLm1sOjQ0Mw?remarks=mrkinpahk.ml%EF%BC%8834.92.208.27%EF%BC%89&obfsParam=mrkinpahk.ml&path=/&obfs=websocket&tls=1&peer=&cert=
+#japan
+vmess://YXV0bzo5YWFiOWY4My1mOWJhLTQ3OTItOGY1YS03NWMwMjU2ZWVjZGRAbXJraW5wYS50azo0NDM?remarks=%E6%97%A5%E6%9C%AC&obfsParam=mrkinpa.tk&path=/&obfs=websocket&tls=1&peer=&cert=
 
-vmess://YXV0bzo5YWFiOWY4My1mOWJhLTQ3OTItOGY1YS03NWMwMjU2ZWVjZGRAbXJraW5wYS50azo0NDM?remarks=mrkinpa.tk%EF%BC%8834.97.250.239%EF%BC%89&obfsParam=mrkinpa.tk&path=/&obfs=websocket&tls=1&peer=&cert=
-
-vmess://YXV0bzo1ZjQ1OTMwNy0wZDUxLTRhMTUtOThlNS01Y2IxNGMzZjZmMGZAbXJraW5wYS5ncTo0NDM?remarks=mrkinpa.gq%EF%BC%8834.87.80.159%EF%BC%89&obfsParam=mrkinpa.gq&path=/&obfs=websocket&tls=1&peer=&cert=
+#singapore
+vmess://YXV0bzo1ZjQ1OTMwNy0wZDUxLTRhMTUtOThlNS01Y2IxNGMzZjZmMGZAbXJraW5wYS5ncTo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=mrkinpa.gq&path=/&obfs=websocket&tls=1&peer=&cert=
